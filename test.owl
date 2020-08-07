@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Ontology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"    xsi:schemaLocation="http://www.w3.org/2002/07/owl# http://www.w3.org/2009/09/owl2-xml.xsd" xmlns="http://www.w3.org/2002/07/owl#" xml:base="http://example.com/BioMedical" ontologyIRI="http://example.com/BioMedical" > <Prefix name="CF" IRI="BioMedical#"/> <Import>http://example.com/BioMedical</Import>
+
+<SubClassOf><Class IRI="#york"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#ratio"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#principal"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#oxford"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#causality"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#oxford"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#triangulation"/> <Class IRI="#transformation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#preventive"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#journal"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#petter"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#practitioner"/> <Class IRI="#odontology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#taught"/> <Class IRI="#odontology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#microscopy"/> <Class IRI="#electron"/></SubClassOf>
+
+<SubClassOf><Class IRI="#gradient"/> <Class IRI="#biological"/></SubClassOf>
+
+<SubClassOf><Class IRI="#transferability"/> <Class IRI="#transformation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#morbidity"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#dealt"/> <Class IRI="#microscopy"/></SubClassOf>
+
+<SubClassOf><Class IRI="#prevention"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#taught"/> <Class IRI="#anthropology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#quantitative"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#seminar"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#carrier"/> <Class IRI="#transformation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#causal"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#experimenter"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#nutrition"/> <Class IRI="#odontology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#innovation"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#inverse"/> <Class IRI="#transformation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#temporality"/> <Class IRI="#biological"/></SubClassOf>
+
+<SubClassOf><Class IRI="#denmark"/> <Class IRI="#cardiovascular"/></SubClassOf>
+
+<SubClassOf><Class IRI="#causation"/> <Class IRI="#epidemiology"/></SubClassOf>
+
+<SubClassOf><Class IRI="#ethid"/> <Class IRI="#bromide"/></SubClassOf>
+
+<SubClassOf><Class IRI="#electrophoresis"/> <Class IRI="#bromide"/></SubClassOf>
+
+
+</Ontology>

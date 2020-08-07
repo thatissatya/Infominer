@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Ontology xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"    xsi:schemaLocation="http://www.w3.org/2002/07/owl# http://www.w3.org/2009/09/owl2-xml.xsd" xmlns="http://www.w3.org/2002/07/owl#" xml:base="http://example.com/BioMedical" ontologyIRI="http://example.com/BioMedical" > <Prefix name="CF" IRI="BioMedical#"/> <Import>http://example.com/BioMedical</Import>
+
+<SubClassOf><Class IRI="#course"/> <Class IRI="#philosophy"/></SubClassOf>
+
+<SubClassOf><Class IRI="#coefficient"/> <Class IRI="#comparison"/></SubClassOf>
+
+<SubClassOf><Class IRI="#conclusion"/> <Class IRI="#mean"/></SubClassOf>
+
+<SubClassOf><Class IRI="#place"/> <Class IRI="#protein"/></SubClassOf>
+
+<SubClassOf><Class IRI="#field"/> <Class IRI="#guide"/></SubClassOf>
+
+<SubClassOf><Class IRI="#improvement"/> <Class IRI="#test"/></SubClassOf>
+
+<SubClassOf><Class IRI="#child"/> <Class IRI="#plaque"/></SubClassOf>
+
+<SubClassOf><Class IRI="#poison"/> <Class IRI="#form"/></SubClassOf>
+
+<SubClassOf><Class IRI="#difference"/> <Class IRI="#patient"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#p"/></SubClassOf>
+
+<SubClassOf><Class IRI="#infection"/> <Class IRI="#theory"/></SubClassOf>
+
+<SubClassOf><Class IRI="#example"/> <Class IRI="#control"/></SubClassOf>
+
+<SubClassOf><Class IRI="#review"/> <Class IRI="#se"/></SubClassOf>
+
+<SubClassOf><Class IRI="#council"/> <Class IRI="#lecture"/></SubClassOf>
+
+<SubClassOf><Class IRI="#project"/> <Class IRI="#soundness"/></SubClassOf>
+
+<SubClassOf><Class IRI="#process"/> <Class IRI="#rule"/></SubClassOf>
+
+<SubClassOf><Class IRI="#treatment"/> <Class IRI="#control"/></SubClassOf>
+
+<SubClassOf><Class IRI="#link"/> <Class IRI="#university"/></SubClassOf>
+
+<SubClassOf><Class IRI="#telephone"/> <Class IRI="#population"/></SubClassOf>
+
+<SubClassOf><Class IRI="#problem"/> <Class IRI="#vital"/></SubClassOf>
+
+<SubClassOf><Class IRI="#example"/> <Class IRI="#document"/></SubClassOf>
+
+<SubClassOf><Class IRI="#function"/> <Class IRI="#bivariate"/></SubClassOf>
+
+<SubClassOf><Class IRI="#therapy"/> <Class IRI="#technique"/></SubClassOf>
+
+<SubClassOf><Class IRI="#couple"/> <Class IRI="#individual"/></SubClassOf>
+
+<SubClassOf><Class IRI="#reductionism"/> <Class IRI="#measure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#coefficient"/> <Class IRI="#risk"/></SubClassOf>
+
+<SubClassOf><Class IRI="#chapter"/> <Class IRI="#confidence"/></SubClassOf>
+
+<SubClassOf><Class IRI="#number"/> <Class IRI="#present"/></SubClassOf>
+
+<SubClassOf><Class IRI="#compensation"/> <Class IRI="#appendix"/></SubClassOf>
+
+<SubClassOf><Class IRI="#part"/> <Class IRI="#androgen"/></SubClassOf>
+
+<SubClassOf><Class IRI="#discipline"/> <Class IRI="#bullet"/></SubClassOf>
+
+<SubClassOf><Class IRI="#decline"/> <Class IRI="#causal"/></SubClassOf>
+
+<SubClassOf><Class IRI="#stroke"/> <Class IRI="#population"/></SubClassOf>
+
+<SubClassOf><Class IRI="#publication"/> <Class IRI="#third"/></SubClassOf>
+
+<SubClassOf><Class IRI="#symbol"/> <Class IRI="#figure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#support"/> <Class IRI="#title"/></SubClassOf>
+
+<SubClassOf><Class IRI="#data"/> <Class IRI="#example"/></SubClassOf>
+
+<SubClassOf><Class IRI="#energy"/> <Class IRI="#stomach"/></SubClassOf>
+
+<SubClassOf><Class IRI="#part"/> <Class IRI="#table"/></SubClassOf>
+
+<SubClassOf><Class IRI="#time"/> <Class IRI="#lecturer"/></SubClassOf>
+
+<SubClassOf><Class IRI="#cancer"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#validity"/> <Class IRI="#example"/></SubClassOf>
+
+<SubClassOf><Class IRI="#deposition"/> <Class IRI="#summary"/></SubClassOf>
+
+<SubClassOf><Class IRI="#level"/> <Class IRI="#example"/></SubClassOf>
+
+<SubClassOf><Class IRI="#cohort"/> <Class IRI="#smoking"/></SubClassOf>
+
+<SubClassOf><Class IRI="#example"/> <Class IRI="#list"/></SubClassOf>
+
+<SubClassOf><Class IRI="#alter"/> <Class IRI="#human"/></SubClassOf>
+
+<SubClassOf><Class IRI="#point"/> <Class IRI="#street"/></SubClassOf>
+
+<SubClassOf><Class IRI="#placebo"/> <Class IRI="#interest"/></SubClassOf>
+
+<SubClassOf><Class IRI="#differ"/> <Class IRI="#cervix"/></SubClassOf>
+
+<SubClassOf><Class IRI="#test"/> <Class IRI="#variable"/></SubClassOf>
+
+<SubClassOf><Class IRI="#source"/> <Class IRI="#difference"/></SubClassOf>
+
+<SubClassOf><Class IRI="#occurrence"/> <Class IRI="#cross"/></SubClassOf>
+
+<SubClassOf><Class IRI="#function"/> <Class IRI="#estimation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#evaluation"/> <Class IRI="#context"/></SubClassOf>
+
+<SubClassOf><Class IRI="#cause"/> <Class IRI="#causation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#tension"/> <Class IRI="#latter"/></SubClassOf>
+
+<SubClassOf><Class IRI="#everyone"/> <Class IRI="#presentation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#difference"/> <Class IRI="#group"/></SubClassOf>
+
+<SubClassOf><Class IRI="#consent"/> <Class IRI="#significance"/></SubClassOf>
+
+<SubClassOf><Class IRI="#search"/> <Class IRI="#research"/></SubClassOf>
+
+<SubClassOf><Class IRI="#chapter"/> <Class IRI="#order"/></SubClassOf>
+
+<SubClassOf><Class IRI="#result"/> <Class IRI="#light"/></SubClassOf>
+
+<SubClassOf><Class IRI="#scale"/> <Class IRI="#legend"/></SubClassOf>
+
+<SubClassOf><Class IRI="#pattern"/> <Class IRI="#template"/></SubClassOf>
+
+<SubClassOf><Class IRI="#order"/> <Class IRI="#field"/></SubClassOf>
+
+<SubClassOf><Class IRI="#environment"/> <Class IRI="#general"/></SubClassOf>
+
+<SubClassOf><Class IRI="#result"/> <Class IRI="#measure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#person"/> <Class IRI="#population"/></SubClassOf>
+
+<SubClassOf><Class IRI="#number"/> <Class IRI="#survey"/></SubClassOf>
+
+<SubClassOf><Class IRI="#number"/> <Class IRI="#sample"/></SubClassOf>
+
+<SubClassOf><Class IRI="#improvement"/> <Class IRI="#field"/></SubClassOf>
+
+<SubClassOf><Class IRI="#import"/> <Class IRI="#process"/></SubClassOf>
+
+<SubClassOf><Class IRI="#procedure"/> <Class IRI="#notebook"/></SubClassOf>
+
+<SubClassOf><Class IRI="#participation"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#abreast"/> <Class IRI="#order"/></SubClassOf>
+
+<SubClassOf><Class IRI="#burden"/> <Class IRI="#e"/></SubClassOf>
+
+<SubClassOf><Class IRI="#composition"/> <Class IRI="#library"/></SubClassOf>
+
+<SubClassOf><Class IRI="#difference"/> <Class IRI="#table"/></SubClassOf>
+
+<SubClassOf><Class IRI="#example"/> <Class IRI="#direction"/></SubClassOf>
+
+<SubClassOf><Class IRI="#study"/> <Class IRI="#today"/></SubClassOf>
+
+<SubClassOf><Class IRI="#case"/> <Class IRI="#emergency"/></SubClassOf>
+
+<SubClassOf><Class IRI="#relationship"/> <Class IRI="#publication"/></SubClassOf>
+
+<SubClassOf><Class IRI="#cant"/> <Class IRI="#case"/></SubClassOf>
+
+<SubClassOf><Class IRI="#agreement"/> <Class IRI="#population"/></SubClassOf>
+
+<SubClassOf><Class IRI="#issue"/> <Class IRI="#world"/></SubClassOf>
+
+<SubClassOf><Class IRI="#increase"/> <Class IRI="#cell"/></SubClassOf>
+
+<SubClassOf><Class IRI="#sector"/> <Class IRI="#text"/></SubClassOf>
+
+<SubClassOf><Class IRI="#family"/> <Class IRI="#aspect"/></SubClassOf>
+
+<SubClassOf><Class IRI="#number"/> <Class IRI="#body"/></SubClassOf>
+
+<SubClassOf><Class IRI="#reproducibility"/> <Class IRI="#composite"/></SubClassOf>
+
+<SubClassOf><Class IRI="#world"/> <Class IRI="#proxy"/></SubClassOf>
+
+<SubClassOf><Class IRI="#science"/> <Class IRI="#threshold"/></SubClassOf>
+
+<SubClassOf><Class IRI="#confidence"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#example"/> <Class IRI="#confidence"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#lecture"/></SubClassOf>
+
+<SubClassOf><Class IRI="#interest"/> <Class IRI="#work"/></SubClassOf>
+
+<SubClassOf><Class IRI="#theme"/> <Class IRI="#conversation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#text"/> <Class IRI="#data"/></SubClassOf>
+
+<SubClassOf><Class IRI="#bearer"/> <Class IRI="#difference"/></SubClassOf>
+
+<SubClassOf><Class IRI="#position"/> <Class IRI="#tendency"/></SubClassOf>
+
+<SubClassOf><Class IRI="#effect"/> <Class IRI="#bibliography"/></SubClassOf>
+
+<SubClassOf><Class IRI="#side"/> <Class IRI="#laboratory"/></SubClassOf>
+
+<SubClassOf><Class IRI="#publication"/> <Class IRI="#use"/></SubClassOf>
+
+<SubClassOf><Class IRI="#concern"/> <Class IRI="#cell"/></SubClassOf>
+
+<SubClassOf><Class IRI="#item"/> <Class IRI="#table"/></SubClassOf>
+
+<SubClassOf><Class IRI="#species"/> <Class IRI="#laboratory"/></SubClassOf>
+
+<SubClassOf><Class IRI="#range"/> <Class IRI="#field"/></SubClassOf>
+
+<SubClassOf><Class IRI="#task"/> <Class IRI="#design"/></SubClassOf>
+
+<SubClassOf><Class IRI="#intervention"/> <Class IRI="#world"/></SubClassOf>
+
+<SubClassOf><Class IRI="#experience"/> <Class IRI="#height"/></SubClassOf>
+
+<SubClassOf><Class IRI="#control"/> <Class IRI="#middle"/></SubClassOf>
+
+<SubClassOf><Class IRI="#differ"/> <Class IRI="#course"/></SubClassOf>
+
+<SubClassOf><Class IRI="#safety"/> <Class IRI="#s"/></SubClassOf>
+
+<SubClassOf><Class IRI="#gene"/> <Class IRI="#reverse"/></SubClassOf>
+
+<SubClassOf><Class IRI="#cause"/> <Class IRI="#rest"/></SubClassOf>
+
+<SubClassOf><Class IRI="#reside"/> <Class IRI="#human"/></SubClassOf>
+
+<SubClassOf><Class IRI="#explanation"/> <Class IRI="#table"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#emergency"/></SubClassOf>
+
+<SubClassOf><Class IRI="#error"/> <Class IRI="#figure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#improvement"/> <Class IRI="#case"/></SubClassOf>
+
+<SubClassOf><Class IRI="#location"/> <Class IRI="#record"/></SubClassOf>
+
+<SubClassOf><Class IRI="#part"/> <Class IRI="#design"/></SubClassOf>
+
+<SubClassOf><Class IRI="#generalization"/> <Class IRI="#hospital"/></SubClassOf>
+
+<SubClassOf><Class IRI="#inclusion"/> <Class IRI="#absence"/></SubClassOf>
+
+<SubClassOf><Class IRI="#disorder"/> <Class IRI="#total"/></SubClassOf>
+
+<SubClassOf><Class IRI="#deal"/> <Class IRI="#sponge"/></SubClassOf>
+
+<SubClassOf><Class IRI="#interval"/> <Class IRI="#location"/></SubClassOf>
+
+<SubClassOf><Class IRI="#consent"/> <Class IRI="#dependent"/></SubClassOf>
+
+<SubClassOf><Class IRI="#number"/> <Class IRI="#disease"/></SubClassOf>
+
+<SubClassOf><Class IRI="#documentation"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#health"/> <Class IRI="#country"/></SubClassOf>
+
+<SubClassOf><Class IRI="#responsibility"/> <Class IRI="#specialist"/></SubClassOf>
+
+<SubClassOf><Class IRI="#portion"/> <Class IRI="#treatment"/></SubClassOf>
+
+<SubClassOf><Class IRI="#point"/> <Class IRI="#number"/></SubClassOf>
+
+<SubClassOf><Class IRI="#participation"/> <Class IRI="#research"/></SubClassOf>
+
+<SubClassOf><Class IRI="#data"/> <Class IRI="#contingency"/></SubClassOf>
+
+<SubClassOf><Class IRI="#stand"/> <Class IRI="#municipal"/></SubClassOf>
+
+<SubClassOf><Class IRI="#percentile"/> <Class IRI="#data"/></SubClassOf>
+
+<SubClassOf><Class IRI="#space"/> <Class IRI="#paper"/></SubClassOf>
+
+<SubClassOf><Class IRI="#sequence"/> <Class IRI="#meta"/></SubClassOf>
+
+<SubClassOf><Class IRI="#year"/> <Class IRI="#measure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#part"/> <Class IRI="#case"/></SubClassOf>
+
+<SubClassOf><Class IRI="#competent"/> <Class IRI="#jet"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#form"/></SubClassOf>
+
+<SubClassOf><Class IRI="#operation"/> <Class IRI="#quality"/></SubClassOf>
+
+<SubClassOf><Class IRI="#expression"/> <Class IRI="#plausible"/></SubClassOf>
+
+<SubClassOf><Class IRI="#efficiency"/> <Class IRI="#human"/></SubClassOf>
+
+<SubClassOf><Class IRI="#past"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#strand"/> <Class IRI="#gel"/></SubClassOf>
+
+<SubClassOf><Class IRI="#group"/> <Class IRI="#lack"/></SubClassOf>
+
+<SubClassOf><Class IRI="#vari"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#consent"/> <Class IRI="#c"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#book"/> <Class IRI="#university"/></SubClassOf>
+
+<SubClassOf><Class IRI="#infection"/> <Class IRI="#task"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#importance"/></SubClassOf>
+
+<SubClassOf><Class IRI="#section"/> <Class IRI="#title"/></SubClassOf>
+
+<SubClassOf><Class IRI="#discussion"/> <Class IRI="#comparison"/></SubClassOf>
+
+<SubClassOf><Class IRI="#foundation"/> <Class IRI="#cell"/></SubClassOf>
+
+<SubClassOf><Class IRI="#times"/> <Class IRI="#course"/></SubClassOf>
+
+<SubClassOf><Class IRI="#technique"/> <Class IRI="#trend"/></SubClassOf>
+
+<SubClassOf><Class IRI="#part"/> <Class IRI="#field"/></SubClassOf>
+
+<SubClassOf><Class IRI="#section"/> <Class IRI="#p"/></SubClassOf>
+
+<SubClassOf><Class IRI="#compensation"/> <Class IRI="#convention"/></SubClassOf>
+
+<SubClassOf><Class IRI="#effects"/> <Class IRI="#background"/></SubClassOf>
+
+<SubClassOf><Class IRI="#column"/> <Class IRI="#subset"/></SubClassOf>
+
+<SubClassOf><Class IRI="#therapy"/> <Class IRI="#differ"/></SubClassOf>
+
+<SubClassOf><Class IRI="#variability"/> <Class IRI="#cell"/></SubClassOf>
+
+<SubClassOf><Class IRI="#institute"/> <Class IRI="#numerator"/></SubClassOf>
+
+<SubClassOf><Class IRI="#chance"/> <Class IRI="#breast"/></SubClassOf>
+
+<SubClassOf><Class IRI="#material"/> <Class IRI="#article"/></SubClassOf>
+
+<SubClassOf><Class IRI="#type"/> <Class IRI="#precondition"/></SubClassOf>
+
+<SubClassOf><Class IRI="#spectrometry"/> <Class IRI="#gel"/></SubClassOf>
+
+<SubClassOf><Class IRI="#poster"/> <Class IRI="#figure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#participation"/> <Class IRI="#figure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#agency"/> <Class IRI="#career"/></SubClassOf>
+
+<SubClassOf><Class IRI="#smoking"/> <Class IRI="#measure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#refer"/> <Class IRI="#text"/></SubClassOf>
+
+<SubClassOf><Class IRI="#example"/> <Class IRI="#comparison"/></SubClassOf>
+
+<SubClassOf><Class IRI="#analysis"/> <Class IRI="#design"/></SubClassOf>
+
+<SubClassOf><Class IRI="#validity"/> <Class IRI="#measure"/></SubClassOf>
+
+<SubClassOf><Class IRI="#sequence"/> <Class IRI="#reaction"/></SubClassOf>
+
+<SubClassOf><Class IRI="#information"/> <Class IRI="#function"/></SubClassOf>
+
+<SubClassOf><Class IRI="#population"/> <Class IRI="#nordic"/></SubClassOf>
+
+<SubClassOf><Class IRI="#stuck"/> <Class IRI="#cell"/></SubClassOf>
+
+<SubClassOf><Class IRI="#biology"/> <Class IRI="#t"/></SubClassOf>
+
+<SubClassOf><Class IRI="#ward"/> <Class IRI="#development"/></SubClassOf>
+
+<SubClassOf><Class IRI="#part"/> <Class IRI="#area"/></SubClassOf>
+
+<SubClassOf><Class IRI="#scenario"/> <Class IRI="#country"/></SubClassOf>
+
+<SubClassOf><Class IRI="#recur"/> <Class IRI="#municipality"/></SubClassOf>
+
+<SubClassOf><Class IRI="#case"/> <Class IRI="#reference"/></SubClassOf>
+
+<SubClassOf><Class IRI="#outcome"/> <Class IRI="#overlying"/></SubClassOf>
+
+<SubClassOf><Class IRI="#number"/> <Class IRI="#population"/></SubClassOf>
+
+<SubClassOf><Class IRI="#factor"/> <Class IRI="#development"/></SubClassOf>
+
+<SubClassOf><Class IRI="#information"/> <Class IRI="#past"/></SubClassOf>
+
+<SubClassOf><Class IRI="#introduction"/> <Class IRI="#scope"/></SubClassOf>
+
+<SubClassOf><Class IRI="#article"/> <Class IRI="#calculation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#press"/> <Class IRI="#need"/></SubClassOf>
+
+<SubClassOf><Class IRI="#child"/> <Class IRI="#miniature"/></SubClassOf>
+
+<SubClassOf><Class IRI="#place"/> <Class IRI="#study"/></SubClassOf>
+
+<SubClassOf><Class IRI="#analysis"/> <Class IRI="#variable"/></SubClassOf>
+
+<SubClassOf><Class IRI="#care"/> <Class IRI="#description"/></SubClassOf>
+
+<SubClassOf><Class IRI="#risk"/> <Class IRI="#trial"/></SubClassOf>
+
+<SubClassOf><Class IRI="#variation"/> <Class IRI="#abstract"/></SubClassOf>
+
+<SubClassOf><Class IRI="#reduction"/> <Class IRI="#systematic"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#systematic"/></SubClassOf>
+
+<SubClassOf><Class IRI="#field"/> <Class IRI="#shift"/></SubClassOf>
+
+<SubClassOf><Class IRI="#variety"/> <Class IRI="#mistake"/></SubClassOf>
+
+<SubClassOf><Class IRI="#improvement"/> <Class IRI="#absence"/></SubClassOf>
+
+<SubClassOf><Class IRI="#interest"/> <Class IRI="#purpose"/></SubClassOf>
+
+<SubClassOf><Class IRI="#kept"/> <Class IRI="#course"/></SubClassOf>
+
+<SubClassOf><Class IRI="#interface"/> <Class IRI="#pivotal"/></SubClassOf>
+
+<SubClassOf><Class IRI="#sample"/> <Class IRI="#result"/></SubClassOf>
+
+<SubClassOf><Class IRI="#sign"/> <Class IRI="#form"/></SubClassOf>
+
+<SubClassOf><Class IRI="#chal"/> <Class IRI="#sense"/></SubClassOf>
+
+<SubClassOf><Class IRI="#acid"/> <Class IRI="#host"/></SubClassOf>
+
+<SubClassOf><Class IRI="#development"/> <Class IRI="#data"/></SubClassOf>
+
+<SubClassOf><Class IRI="#interpretation"/> <Class IRI="#discussion"/></SubClassOf>
+
+<SubClassOf><Class IRI="#tool"/> <Class IRI="#follow"/></SubClassOf>
+
+<SubClassOf><Class IRI="#participation"/> <Class IRI="#emergency"/></SubClassOf>
+
+<SubClassOf><Class IRI="#development"/> <Class IRI="#population"/></SubClassOf>
+
+<SubClassOf><Class IRI="#information"/> <Class IRI="#form"/></SubClassOf>
+
+<SubClassOf><Class IRI="#ratio"/> <Class IRI="#frequency"/></SubClassOf>
+
+<SubClassOf><Class IRI="#research"/> <Class IRI="#attentiveness"/></SubClassOf>
+
+<SubClassOf><Class IRI="#resource"/> <Class IRI="#time"/></SubClassOf>
+
+<SubClassOf><Class IRI="#rate"/> <Class IRI="#level"/></SubClassOf>
+
+<SubClassOf><Class IRI="#difference"/> <Class IRI="#control"/></SubClassOf>
+
+<SubClassOf><Class IRI="#level"/> <Class IRI="#observation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#introduction"/> <Class IRI="#treatment"/></SubClassOf>
+
+<SubClassOf><Class IRI="#promote"/> <Class IRI="#s"/></SubClassOf>
+
+<SubClassOf><Class IRI="#continue"/> <Class IRI="#attentiveness"/></SubClassOf>
+
+<SubClassOf><Class IRI="#morality"/> <Class IRI="#book"/></SubClassOf>
+
+<SubClassOf><Class IRI="#recurrent"/> <Class IRI="#method"/></SubClassOf>
+
+<SubClassOf><Class IRI="#replication"/> <Class IRI="#development"/></SubClassOf>
+
+<SubClassOf><Class IRI="#record"/> <Class IRI="#deviation"/></SubClassOf>
+
+<SubClassOf><Class IRI="#illness"/> <Class IRI="#association"/></SubClassOf>
+
+<SubClassOf><Class IRI="#information"/> <Class IRI="#table"/></SubClassOf>
+
+<SubClassOf><Class IRI="#approval"/> <Class IRI="#marathon"/></SubClassOf>
+
+
+</Ontology>
