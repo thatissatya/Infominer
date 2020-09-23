@@ -1,3 +1,3 @@
 # Infominer
 
-![Infominer](https://github.com/satya2436/Capture.PNG)
+![Infominer](https://github.com/satya2436/Infominer/Capture.PNG)
